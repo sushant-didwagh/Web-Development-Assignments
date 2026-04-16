@@ -1,0 +1,20 @@
+
+Problem Statement
+
+Create a static web page which defines all text formatting tags of HTML in tabular format.
+
+The web page should display different HTML text formatting tags along with their description, example, and output using a table structure.
+
+
+
+Description
+
+HTML provides various text formatting tags that are used to modify the appearance and meaning of text. These tags help in making text bold, italic, underlined, highlighted, smaller, subscript, superscript, deleted, inserted, and more.
+
+In this assignment, a table is created using HTML table elements such as table, tr, th, and td. Each row of the table represents one formatting tag along with its description and example output.
+
+The web page is static in nature, meaning the content remains fixed and does not change dynamically.
+
+Expected Outcome
+
+The static web page should clearly display all HTML text formatting tags in tabular format with proper alignment and readable structure.

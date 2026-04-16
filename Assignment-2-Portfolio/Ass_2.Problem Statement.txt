@@ -1,0 +1,75 @@
+
+ASSIGNMENT 2
+Design a Personal Portfolio Page using HTML and CSS (Bootstrap CDN if required)
+
+Title
+Design a Personal Portfolio Page using HTML and CSS. Use Bootstrap CDN if required.
+
+
+Theory:
+
+HTML (HyperText Markup Language) is used to structure content on web pages. It defines headings, paragraphs, images, links, sections, and forms.
+
+Common structural tags used in a portfolio page include header, section, nav, div, and footer.
+
+CSS (Cascading Style Sheets) is used to style HTML elements. It controls colors, fonts, spacing, alignment, layout, and responsive behavior.
+
+CSS can be applied in three ways:
+Inline CSS
+Internal CSS
+External CSS
+
+For professional design, external CSS is preferred.
+
+Bootstrap is a front-end framework that provides pre-designed components and a responsive grid system.
+
+Bootstrap CDN allows us to use Bootstrap by adding a link inside the head section without downloading files.
+
+Benefits of Bootstrap include responsive layout, predefined classes, faster development, and mobile-friendly design.
+
+
+Structure of Personal Portfolio Page : 
+
+A standard portfolio page contains the following sections:
+
+Header Section
+Includes name, tagline, and navigation menu.
+
+About Section
+Includes personal introduction, background, and career goals.
+
+Skills Section
+Includes technical skills and tools known.
+
+Projects Section
+Includes project title, description, and technologies used.
+
+Contact Section
+Includes email, phone number, and social media links.
+
+Footer Section
+Includes copyright information.
+
+
+Working Principle :
+
+HTML creates the structure of the webpage.
+CSS is used to apply styling such as colors, fonts, spacing, and alignment.
+Bootstrap grid system divides the page into rows and columns for better layout.
+All sections are arranged properly for smooth navigation.
+Responsive design ensures the page adjusts according to different screen sizes such as mobile, tablet, and desktop.
+
+
+
+Advantages :
+
+Provides professional online presence.
+Easy to update and maintain.
+Showcases creativity and technical skills.
+Responsive and user-friendly design.
+
+Conclusion : 
+
+This assignment helped in understanding webpage design using HTML and CSS. By creating a personal portfolio page, we learned how to structure content, apply styling, and design a responsive layout. The use of Bootstrap CDN improved layout consistency and mobile responsiveness.
+
+
